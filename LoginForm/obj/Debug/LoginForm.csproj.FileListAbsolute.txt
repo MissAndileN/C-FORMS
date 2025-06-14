@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Admin\Desktop\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Admin\Desktop\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.admin.resources
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\Admin\Desktop\LoginForm\obj\Debug\LoginForm.New.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.admin.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.New.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\User\Downloads\PRG262-BKP3 3\PRG262-BKP3 3\LoginForm\obj\Debug\LoginForm.pdb
